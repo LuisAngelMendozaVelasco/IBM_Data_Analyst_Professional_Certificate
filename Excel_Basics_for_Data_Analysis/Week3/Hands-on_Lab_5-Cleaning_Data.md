@@ -1,3 +1,0 @@
-# Hands-on Lab 5: Cleaning Data
-
-https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Lab%205%20-%20Cleaning%20Data/instructions.md.html?origin=www.coursera.org
