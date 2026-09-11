@@ -13,7 +13,7 @@ app = dash.Dash(__name__)
 app.config.suppress_callback_exceptions = True
 
 # Read the automobiles data into pandas dataframe
-auto_data =  pd.read_csv('data/automobileEDA.csv', encoding="ISO-8859-1")
+auto_data =  pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/automobileEDA.csv', encoding="ISO-8859-1")
 
 #Layout Section of Dash
 app.layout = html.Div(children=[html.H1('Car Automobile Components', style={'textAlign': 'center', 'color': '#503D36', 'font-size': 24}),
